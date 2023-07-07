@@ -26,4 +26,4 @@ Se você quiser contribuir para o desenvolvimento do site da Mais Alto Church, f
 
 - Email: contato@maisaltochurch.com
 - Website: https://www.maisaltochurch.com
-- Siga-nos nas redes sociais: [Facebook](https://www.facebook.com/maisaltochurch) | [Instagram](https://www.instagram.com/maisaltochurch) | [Twitter](https://www.twitter.com/maisaltochurch)
+- Siga-nos nas redes sociais: [Facebook](https://www.facebook.com/maisaltochurch) | [Instagram](https://www.instagram.com/maisaltochurch) | [YouTube](https://www.youtube.com/maisaltochurch)
